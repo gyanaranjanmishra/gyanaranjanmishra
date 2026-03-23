@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gyanaranjanmishra
-- 👀 I’m interested in learning to use MTEX for VPSC
-- 🌱 I’m currently a Graduate student
-- 💞️ I’m looking to collaborate on (still learning)
+- 🌱 I’m a recent Graduate
+- 💞️ I’m looking to collaborate on classification, regression,deep-learning,NLP modelling projects(model development)
+- I’m interested in learning to use MTEX for VPSC
 - 📫 
 
 <!---
