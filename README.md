@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gyanaranjanmishra
 - 🌱 I’m a recent Graduate
 - 💞️ I’m looking to collaborate on classification, regression,deep-learning,NLP modelling projects(model development)
+- I'm working on few PLP, if interested to collaborate please email:gyanaranjanmishra06@gmail.com
 - I’m interested in learning to use MTEX for VPSC
 - 📫 
 
