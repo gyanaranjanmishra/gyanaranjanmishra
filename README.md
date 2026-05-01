@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gyanaranjanmishra
-- 🌱 I’m a recent Graduate
-- 💞️ I’m looking to collaborate on classification, regression,deep-learning,NLP modelling projects(model development)
-- I'm working on few PLP, if interested to collaborate please email:gyanaranjanmishra06@gmail.com
-- I’m interested in learning to use MTEX for VPSC
+- 🌱 I’m a recent Graduate from University of New Brunswick,
+- 🌱 I have worked on ML projects centering around manufacturing sector, now actively working on PLP from finance, healthcare, consumer goods, etc sectors and upskilling at the same time
+- 💞️ I’m looking to collaborate on ML projects for real world applications (model development), if interested to collaborate please email:gyanaranjanmishra06@gmail.com
+- 
 - 📫 
 
 <!---
